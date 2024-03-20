@@ -4,7 +4,7 @@
 - 🌱 Web and mobile web development
 - 🎯 Check out my projects: [Portfolio](https://alonso-rodrigues.github.io/portfolio)
 <hr>
-<div style="text-align: center;">
+<div style="text-align: center; margin-right: 20%;">
   <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
