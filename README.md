@@ -2,7 +2,7 @@
 
 - 👨‍💻 Always learning, always progressing
 - 🌱 Web and mobile web development
-- 🎯 Check out my projects: <a href="[Portfolio](https://alonsoportfolio.netlify.app/)"></a>
+- 🎯 Check out my projects: [Portfolio](https://alonsoportfolio.netlify.app/)
 <hr>
 <div style="text-align: center;">
   <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
