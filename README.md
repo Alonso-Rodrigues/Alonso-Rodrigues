@@ -5,11 +5,9 @@
 - 🎯 Always learning, always progressing.
 - 🔗 Check out my projects: [Portfolio](https://alonsoportfolio.netlify.app/)
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/alonso-rodrigues/)
-
 <hr>
-
 ### 🛠️ Skills
-<br><br>
+<br>
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="25" height="25">
